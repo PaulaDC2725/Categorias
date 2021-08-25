@@ -10,61 +10,7 @@
     <!-- Favicons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" crossorigin="anonymous">
-    <meta name="theme-color" content="#7952b3">
-    <style>
-        html{
-            min-height: 100%;
-            position: relative;
-        }
-        .bd-placeholder-img {
-            font-size: 1.125rem;
-            text-anchor: middle;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-        footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            background-color: #565557;
-            color: white;
-            text-align: center;
-            position: absolute;
-        }
-        .container2{
-            padding-bottom: 300px
-        }
-        @media (min-width: 768px) {
-            .bd-placeholder-img-lg {
-                font-size: 3.5rem;
-            }
-        }
-    </style>
-    {{-- <style>
-        html{
-            min-height: 100%;
-            position: relative;
-        }
-        footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            background-color: #565557;
-            color: white;
-            text-align: center;
-            position: absolute;
-        }
-        .container{
-            padding-bottom: 300px
-        }
-        body {
-            background-color:  #EDF7EF
-        }
-
-    </style> --}}
+    <meta name="theme-color" content="#7952b3">    
 </head>
 <body>
     <header class="p-3 bg-dark text-white">
@@ -202,12 +148,6 @@
         </main>
     </div>
 </div>
-<footer>
-    <h4>Project done in a PHP class</h4>
-    <h4>Teacher: github.com/velamds</h4>
-    <h4>Student info: hectorflorez25@gmail.com</h4>
-    <h4>Github: github.com/hectorf25</h4>
-<footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
